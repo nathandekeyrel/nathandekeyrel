@@ -5,17 +5,9 @@
 
 - 🌱 I’m currently learning **Computer Systems, Data Mining, and CS Theory**
 
-- 👯 I’m looking to collaborate on **ML projects**
-
 - 🤝 I’m looking for help with **Developing my portfolio**
 
-- 👨‍💻 All of my projects are available at [tbd](tbd)
-
-- 📝 I regularly write articles on [tbd](tbd)
-
 - 📫 How to reach me **nathandekeyrel@gmail.com**
-
-- 📄 Know about my experiences [tbd](tbd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
