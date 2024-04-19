@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Systems, Data Mining, and CS Theory**
 
-- 🤝 I’m looking for help with **Developing my portfolio**
+- 🤝 I’m looking for help with **developing my portfolio**
 
 - 📫 How to reach me **nathandekeyrel@gmail.com**
 
