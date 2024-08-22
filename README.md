@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A CS Student a Montana State</h3>
 
-- 🔭 I’m currently working on **A portfolio webiste**
+- 🔭 I’m currently working on **a portfolio webiste**
 
-- 🌱 I’m currently learning **Computer Systems, Data Mining, and CS Theory**
+- 🌱 I’m currently learning **Full-Stack Web Development, Database Systems, and Machine Learning**
 
 - 🤝 I’m looking for help with **developing my portfolio**
 
