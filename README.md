@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A CS Student a Montana State</h3>
+<h3 align="center">A CS Student at Montana State</h3>
 
 - 🔭 I’m currently working on **a portfolio webiste**
 
