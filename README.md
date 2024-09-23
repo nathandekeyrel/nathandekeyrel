@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Developing my portfolio**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nathandekeyrel](https://github.com/nathandekeyrel)
+- 👨‍💻 All of my projects are available on my [Github](https://github.com/nathandekeyrel)
 
 - 📫 How to reach me **nathandekeyrel@gmail.com**
 
