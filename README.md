@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development, Database Systems, and Machine Learning**
 
-- 👯 I’m looking to collaborate on **ML projects**
-
 - 🤝 I’m looking for help with **Developing my portfolio**
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/nathandekeyrel)
