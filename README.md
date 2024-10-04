@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/nathandekeyrel)
 
-- 📫 How to reach me **nathandekeyrel@gmail.com**
+- 📫 How to reach me **nathan.dekeyrel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
