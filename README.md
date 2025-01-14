@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a portfolio webiste**
 
-- 🌱 I’m currently learning **Full-Stack Web Development, Database Systems, and Machine Learning**
+- 🌱 I’m currently learning **Compilers, Computer Security, and Industry Methods**
 
 - 🤝 I’m looking for help with **developing my portfolio**
 
