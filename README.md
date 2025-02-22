@@ -1,17 +1,62 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A CS Student a Montana State</h3>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-- 🔭 I’m currently working on **a portfolio webiste**
+<h2 align="left">Hi 👋! My name is Nathan and I'm a CS Major, from Colorado</h2>
 
-- 🌱 I’m currently learning **Compilers, Computer Security, and Industry Methods**
+###
 
-- 🤝 I’m looking for help with **developing my portfolio**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathandekeyrel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathandekeyrel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 👨‍💻 All of my projects are available on my [Github](https://github.com/nathandekeyrel)
+###
 
-- 📫 How to reach me **nathan.dekeyrel@gmail.com**
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ0aTBmN3Z5cXhrMWwzZW5nbmF0cjNwbjFlNjlpc29yNTdjcXlodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFkiFMDg3iFoI/giphy.gif"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nathandekeyrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathandekeyrel" height="30" width="40" /></a>
-</p>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/nathandekeyrel">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:nathan.dekeyrel@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nathan-dekeyrel">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathandekeyrel/nathandekeyrel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathandekeyrel/nathandekeyrel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nathandekeyrel/nathandekeyrel/output/github-snake.svg" />
+</picture>
+
+###
