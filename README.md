@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<h2 align="left">Hi 👋! My name is Nathan and I'm a CS Major, from Colorado</h2>
+<h2 align="left">Hi 👋! My name is Nathan and I'm a CS Major at Montana State</h2>
 
 ###
 
