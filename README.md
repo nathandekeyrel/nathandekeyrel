@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 <h2 align="left">Hi 👋! My name is Nathan and I'm a Recent CS Grad from Montana State</h2>
 
 ###
@@ -66,5 +64,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathandekeyrel/nathandekeyrel/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nathandekeyrel/nathandekeyrel/output/github-snake.svg" />
 </picture>
+
+###
+
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 ###
