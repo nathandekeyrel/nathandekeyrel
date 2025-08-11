@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nathan and I'm a Recent CS Grad from Montana State</h2>
+<h2 align="left">Hi 👋! My name is Nathan and I'm a Junior SWE</h2>
 
 ###
 
