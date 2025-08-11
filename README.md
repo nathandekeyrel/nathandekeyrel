@@ -46,9 +46,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/nathandekeyrel">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E56969&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="mailto:nathan.dekeyrel@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D12B26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
